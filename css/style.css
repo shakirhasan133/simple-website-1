@@ -1,0 +1,17 @@
+header{
+    background: purple;
+    text-align: center;
+    
+}
+header h1{
+    font-size: 20px;
+    color: aliceblue;
+
+}
+p{
+    margin: 10px;
+    padding: 10px;
+}
+div{
+    background-color: aqua;
+}
